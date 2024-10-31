@@ -6,7 +6,7 @@
     "baseBranches": []
   },
   "scanSettingsSAST": {
-    "repoNameSync": false,
+    "repoNameSync": true,
     "enableScan": true,
     "scanPullRequests": true,
     "incrementalScan": true,
